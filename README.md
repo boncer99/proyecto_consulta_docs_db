@@ -71,6 +71,14 @@ Revisa el POST con comentarios aqui:
 
 ---
 
+## 🔗 POST Linkedin
+
+Video demostrativo:  
+📁 https://youtu.be/pgjohyqGt9k
+
+---
+
+
 ## 🧭 Reflexión Final
 
 > Los LLM no solo son generadores de texto: bien integrados, se convierten en asistentes expertos capaces de interactuar con sistemas reales, traduciendo conocimiento técnico en información útil para personas.  
